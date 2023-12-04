@@ -1,0 +1,6 @@
+Input.jsx 채우기
+Todolist에서 store에 있는 todos를 가져오기 => 브라우저에 필터,맵을 돌려서 그려주기
+dispatch로 addtodo 사용하기 
+dispatch로 removetodo 사용하기
+
+
